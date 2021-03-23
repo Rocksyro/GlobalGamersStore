@@ -10237,3 +10237,10 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #000000}
+
+.boton-pagar{
+  background: red !important;
+  background-color: red !important;
+  color: red !important;
+  width: 30%;
+}
